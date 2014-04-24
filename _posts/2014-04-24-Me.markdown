@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Curriculum Vitae : Alexandre Tournaud"
+---
+
+*Tél:* 06.81.19.30.65
+
+          *Mail:* alexandre@tournaud.com
+
+*Adresse:* 28 rue Saint-André des Arts, 75006
+
+```ruby
+def my_method()
+end
+```
